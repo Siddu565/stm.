@@ -1,14 +1,16 @@
-<H1>STATE TRANSITION TESTING</H1>
+   <H1>STATE TRANSITION TESTING</H1>
 <p>State Transition Testing is a black box testing technique in which changes made in input conditions cause state changes or output changes in the Application under Test. State transition testing helps to analyze behaviour of an application for different input conditions.</p>
  <ol> 
 <li> State-Transition testing is the one of the black box testing & desing techniques which can be used to derive test cases (or) test for the application functions which go through several states 
     </li> 
 </ol> 
-    <li>APPLICATION FUNCTIONALITIES
-    <li>SEVERAL STATES</li></li>
-    <pr>For example let us look in to net banking software <br>
-    when you visit a site you can see a login details </pr>
 
+   <pr> APPLICATION FUNCTIONALITIES <br>
+    SEVERAL STATES <br>
+    For example let us look in to net banking software <br>
+    when you visit a site you can see a login details 
+    </pr>
+<body>
     <style>
         img{ 
           width:50%;
@@ -19,7 +21,7 @@
       height:10vh
       }
       </style>
-    
+</body>
     <div> 
         <img src="sbi.png"alt>
         </div>
@@ -30,6 +32,7 @@
     WRONG PASSWORD <br>
     ACCOUNT LOCKED </pr>
     <style>
+    
   img{ 
     width:50%;
 }
